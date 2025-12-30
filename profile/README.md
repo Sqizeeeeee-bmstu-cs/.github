@@ -1,43 +1,49 @@
 # Sqizeeeeee-bmstu-cs
 
-
-## term1
-
-### labs
-- [lab 1](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab1)
-- [lab2](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab2)
-- [lab4-part1](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab4-part1)
-- [lab4-part2](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab4-part2)
-- [lab5](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab5)
-- [lab6](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab6)
-- [lab7-part1](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab7-part1)
-- [lab7-part2](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab7-part2)
-- [lab8](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab8)
-- [lab9](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab9)
-- [lab11-part1](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part1)
-- [lab11-part2](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part2)
-- [lab11-part3](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part3)
+# term1
 
 
-### sem
-- [sem5-part2](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem5-part2)
-- [sem6](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem6)
-- [sem7](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem7)
-- [sem8](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem8)
-- [sem9](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem9)
-- [sem10-part1](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem10-part1)
-- [sem11](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem11)
-- [sem12](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem12)
-- [sem13](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem13)
-- [sem16](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem16)
-- [sem17](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem17)
-- [sem18](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem18)
-- [sem19](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem19)
+## labs
+
+| № | Название | Ссылка |
+|---|---------|--------|
+| 1 | Лабораторная работа 1 | [Открыть](./lab1) |
+| 2 | Лабораторная работа 2 | [Открыть](./lab2) |
+| 4 | Лабораторная работа 4 (часть 1) | [Открыть](./lab4-part1) |
+| 4 | Лабораторная работа 4 (часть 2) | [Открыть](./lab4-part2) |
+| 5 | Лабораторная работа 5 | [Открыть](./lab5) |
+| 6 | Лабораторная работа 6 | [Открыть](./lab6) |
+| 7 | Лабораторная работа 7 (часть 1) | [Открыть](./lab7-part1) |
+| 7 | Лабораторная работа 7 (часть 2) | [Открыть](./lab7-part2) |
+| 8 | Лабораторная работа 8 | [Открыть](./lab8) |
+| 9 | Лабораторная работа 9 | [Открыть](./lab9) |
+| 11 | Лабораторная работа 11 (ч.1) | [Открыть](./lab11-part1) |
+| 11 | Лабораторная работа 11 (ч.2) | [Открыть](./lab11-part2) |
+| 11 | Лабораторная работа 11 (ч.3) | [Открыть](./lab11-part3) |
+
+
+## sem
+| № | Тема | Ссылка |
+|---|------|--------|
+| 5 | Семинар 5 (часть 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem5-part2) |
+| 6 | Семинар 6 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem6) |
+| 7 | Семинар 7 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem7) |
+| 8 | Семинар 8 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem8) |
+| 9 | Семинар 9 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem9) |
+| 10 | Семинар 10 (часть 1) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem10-part1) |
+| 11 | Семинар 11 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem11) |
+| 12 | Семинар 12 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem12) |
+| 13 | Семинар 13 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem13) |
+| 16 | Семинар 16 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem16) |
+| 17 | Семинар 17 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem17) |
+| 18 | Семинар 18 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem18) |
+| 19 | Семинар 19 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem19) |
  
-  ### homework
+## homework
+ML + crypto
 
-  [homework](https://github.com/Sqizeeeeee-bmstu-cs/term1-hometask1)
+[homework](https://github.com/Sqizeeeeee-bmstu-cs/term1-hometask1)
 
-  ### reports
+## reports
 
-  [reports](https://github.com/Sqizeeeeee-bmstu-cs/term1-comp-science-reports)
+[reports](https://github.com/Sqizeeeeee-bmstu-cs/term1-comp-science-reports)
