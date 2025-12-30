@@ -7,19 +7,19 @@
 
 | № | Название | Ссылка |
 |---|---------|--------|
-| 1 | Лабораторная работа 1 | [Открыть](./lab1) |
-| 2 | Лабораторная работа 2 | [Открыть](./lab2) |
-| 4 | Лабораторная работа 4 (часть 1) | [Открыть](./lab4-part1) |
-| 4 | Лабораторная работа 4 (часть 2) | [Открыть](./lab4-part2) |
-| 5 | Лабораторная работа 5 | [Открыть](./lab5) |
-| 6 | Лабораторная работа 6 | [Открыть](./lab6) |
-| 7 | Лабораторная работа 7 (часть 1) | [Открыть](./lab7-part1) |
-| 7 | Лабораторная работа 7 (часть 2) | [Открыть](./lab7-part2) |
-| 8 | Лабораторная работа 8 | [Открыть](./lab8) |
-| 9 | Лабораторная работа 9 | [Открыть](./lab9) |
-| 11 | Лабораторная работа 11 (ч.1) | [Открыть](./lab11-part1) |
-| 11 | Лабораторная работа 11 (ч.2) | [Открыть](./lab11-part2) |
-| 11 | Лабораторная работа 11 (ч.3) | [Открыть](./lab11-part3) |
+| 1 | Лабораторная работа 1 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab1) |
+| 2 | Лабораторная работа 2 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab2) |
+| 4 | Лабораторная работа 4 (часть 1) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab4-part1) |
+| 4 | Лабораторная работа 4 (часть 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab4-part2) |
+| 5 | Лабораторная работа 5 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab5) |
+| 6 | Лабораторная работа 6 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab6) |
+| 7 | Лабораторная работа 7 (часть 1) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab7-part1) |
+| 7 | Лабораторная работа 7 (часть 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab7-part2) |
+| 8 | Лабораторная работа 8 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab8) |
+| 9 | Лабораторная работа 9 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab9) |
+| 11 | Лабораторная работа 11 (ч.1) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part1) |
+| 11 | Лабораторная работа 11 (ч.2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part2) |
+| 11 | Лабораторная работа 11 (ч.3) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part3) |
 
 
 ## sem
