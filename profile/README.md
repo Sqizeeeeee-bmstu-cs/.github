@@ -1,9 +1,11 @@
 # Sqizeeeeee-bmstu-cs
 
-# term1
+<details>
+<summary><b>term1</b></summary>
 
+## c++
 
-## labs
+### labs
 
 | № | Название | Ссылка |
 |---|---------|--------|
@@ -21,8 +23,8 @@
 | 11 | Лабораторная работа 11 (ч.2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part2) |
 | 11 | Лабораторная работа 11 (ч.3) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-lab11-part3) |
 
+### sem
 
-## sem
 | № | Тема | Ссылка |
 |---|------|--------|
 | 5 | Семинар 5 (часть 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem5-part2) |
@@ -38,12 +40,51 @@
 | 17 | Семинар 17 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem17) |
 | 18 | Семинар 18 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem18) |
 | 19 | Семинар 19 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term1-sem19) |
- 
-## homework
+
+### homework
+
 ML + crypto
 
 [homework](https://github.com/Sqizeeeeee-bmstu-cs/term1-hometask1)
 
-## reports
+### reports
 
 [reports](https://github.com/Sqizeeeeee-bmstu-cs/term1-comp-science-reports)
+
+</details>
+
+
+# term 2
+
+## c++
+
+### sem
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 2 | Семинар 2 (доработка ЛР 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) 
+
+### labs
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | Лабораторная работа 1 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab1) |
+| 2 | Лабораторная работа 2 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
+
+## c#
+
+
+### sem
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | Семинар 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem1) |
+| 2 | Семинар 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem2) |
+
+### lectures
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | Лекция 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1) |
+
+
