@@ -88,3 +88,13 @@ ML + crypto
 | 1 | Лекция 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1) |
 
 
+### homework
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | homework 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework1) |
+
+
+
+
+
