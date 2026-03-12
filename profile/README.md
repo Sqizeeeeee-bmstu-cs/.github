@@ -3,7 +3,7 @@
 <details>
 <summary><b>term1</b></summary>
 
-## c++
+## С++
 
 ### labs
 
@@ -56,7 +56,7 @@ ML + crypto
 
 # term 2
 
-## c++
+## С++
 
 ### sem
 
@@ -71,7 +71,7 @@ ML + crypto
 | 1 | Лабораторная работа 1 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab1) |
 | 2 | Лабораторная работа 2 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
 
-## c#
+## С#
 
 
 ### sem
