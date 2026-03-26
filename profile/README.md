@@ -91,11 +91,13 @@ ML + crypto
 
 ### lecture
 
-| part | Тема | Ссылка |
-|------|------|--------|
-| 1-5  | Основы языка| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-parts1-5) |
-|   6  | Работа с файлами| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part6) |
-|   7  | Стандартные коллекции| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part7) |
+|part | Тема | Ссылка |
+|-----|------|--------|
+| 1-5 | Основы языка| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-parts1-5) |
+|  6  | Работа с файлами| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part6) |
+|  7  | Стандартные коллекции| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part7) |
+|  8  | Классы + наследование | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-lecture1-part8) |
+
 
 
 ---
