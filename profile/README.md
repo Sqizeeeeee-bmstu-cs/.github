@@ -112,6 +112,9 @@ ML + crypto
 | 2 | homework 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework2) |
 
 
+#### Архив курса АСОИУ
+
+[Открыть](https://github.com/Sqizeeeeee-bmstu-cs/Archive_AADPCS)
 
 
 
