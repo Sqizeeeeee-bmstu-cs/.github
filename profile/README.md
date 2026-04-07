@@ -64,7 +64,7 @@ ML + crypto
 |---|------|--------|
 | 2 | Семинар 2 (доработка ЛР 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
 | 3 | Семинар 3 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
-| 4 | Семинар 4 (доработка семинара 4) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
+| 4 | Семинар 4 (доработка семинара 3) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
 
 ---
 
