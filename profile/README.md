@@ -64,6 +64,7 @@ ML + crypto
 |---|------|--------|
 | 2 | Семинар 2 (доработка ЛР 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
 | 3 | Семинар 3 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
+| 4 | Семинар 4 (доработка семинара 4) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
 
 ---
 
@@ -86,6 +87,7 @@ ML + crypto
 | 1 | Семинар 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem1) |
 | 2 | Семинар 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem2) |
 | 3 | Семинар 3| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem3) |
+| 4 | Семинар 4| [Открыть]() |
 
 ---
 
@@ -107,6 +109,7 @@ ML + crypto
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | homework 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework1) |
+| 2 | homework 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-homework2) |
 
 
 
