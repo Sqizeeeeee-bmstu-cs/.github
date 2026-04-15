@@ -88,6 +88,8 @@ ML + crypto
 | 2 | Семинар 2| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem2) |
 | 3 | Семинар 3| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem3) |
 | 4 | Семинар 4| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem4) |
+| 5 | Семинар 5| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-csh-sem5) |
+
 
 ---
 
