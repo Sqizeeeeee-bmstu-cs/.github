@@ -65,6 +65,7 @@ ML + crypto
 | 2 | Семинар 2 (доработка ЛР 2) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
 | 3 | Семинар 3 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
 | 4 | Семинар 4 (доработка семинара 3) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
+| 5 | Семинар 5 (доработка семинара 4) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3) |
 
 ---
 
@@ -74,6 +75,8 @@ ML + crypto
 |---|------|--------|
 | 1 | Лабораторная работа 1 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab1) |
 | 2 | Лабораторная работа 2 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
+| 3 | Лабораторная работа 3 | Веб Агент |
+| 4 | Лабораторная работа 4 (доработка семинара 5) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3)|
 
 ---
 
