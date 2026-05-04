@@ -75,8 +75,9 @@ ML + crypto
 |---|------|--------|
 | 1 | Лабораторная работа 1 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab1) |
 | 2 | Лабораторная работа 2 | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-lab2) |
-| 3 | Лабораторная работа 3 | Веб Агент |
-| 4 | Лабораторная работа 4 (доработка семинара 5) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3)|
+| 3 | Лабораторные работы 3-6 | Веб Агент |
+| 4 | Лабораторная работа 7 (доработка семинара 5) | [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term2-cpp-sem3)|
+| 5 | Лабораторная работа 8 | Кейс-Чемпионат |
 
 ---
 
