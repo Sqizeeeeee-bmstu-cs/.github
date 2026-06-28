@@ -53,8 +53,9 @@ ML + crypto
 
 </details>
 
+<details>
+<summary><b>term2</b></summary>
 
-# term 2
 
 ## С++
 
@@ -127,5 +128,5 @@ ML + crypto
 
 [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/Archive_AADPCS)
 
-
+</details>
 
