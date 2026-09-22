@@ -130,3 +130,11 @@ ML + crypto
 
 </details>
 
+### PCPL
+
+
+| № | Тема | Ссылка |
+|---|------|--------|
+| 1 | lab 1| [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/term3-PCPL-lab1) |
+
+
