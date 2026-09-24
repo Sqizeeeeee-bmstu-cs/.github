@@ -124,15 +124,20 @@ ML + crypto
 
 
 
-#### Архив курса АСОИУ
+### Архив курса АСОИУ
 
 [Открыть](https://github.com/Sqizeeeeee-bmstu-cs/Archive_AADPCS)
 
 </details>
 
-### PCPL 
+## PCPL 
 
-#### Python
+### Архив курса ПиК ЯП
+
+[Открыть](https://github.com/Sqizeeeeee-bmstu-cs/Archive_PCPL)
+
+
+### Python
 
 | № | Тема | Ссылка |
 |---|------|--------|
